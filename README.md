@@ -1,4 +1,4 @@
-# SyncPlay - MVP (syncplay)
+# SyncPlay - MVP
 
 Projeto acadêmico: versão simplificada do SyncPlay para entrega da Etapa 2.
 
