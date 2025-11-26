@@ -21,5 +21,5 @@ Projeto acadêmico: versão simplificada do SyncPlay para entrega da Etapa 2.
 > Observação: este projeto usa AsyncStorage para salvar usuários localmente (mock). Não há backend.
 
 ## Entrega acadêmica
-- Subir este repositório no GitHub como `syncplay-luiza`
+- Subir este repositório no GitHub como `syncplay`
 - Para o MVP funcional para testes de usuário, use Glide (low-code) com as mesmas telas e dados.
